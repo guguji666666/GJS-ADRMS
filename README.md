@@ -1,1 +1,1 @@
-# GJS-Azure-Information-Protection
+# Azure-Information-Protection
