@@ -106,12 +106,17 @@ Reporting Service allows you to set up a dedicated server for your use or use it
 The Next button is disabled while the Accept button is not marked <br>
 ![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/7edd4de6-0dc7-45f3-a923-5ba28f2f38ff)
 
+Manually select the path where you download [File 1](https://go.microsoft.com/fwlink/?Linkld=836819&lcid=1033) and [File 2](https://go.microsoft.com/fwlink/?Linkld=850317&lcid=1033) <br>
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/a458f13a-8ffe-4a93-840c-8db328e04393)
 
-![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/5772c526-5216-4552-ab8e-79167de5ee65)
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/5011eb60-db84-4f90-9598-41d8dcccbdc6)
 
+Click install <br>
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/2a5da588-b2ee-4e80-a1f5-fe5fefd738d9)
 
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/3017378d-8aea-4c38-ba50-9a0ac727414d)
 
-
-
+Wait until installtion is completed <br>
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/74f3a5ca-01d4-430d-be7b-fda2122bd4b7)
 
 
