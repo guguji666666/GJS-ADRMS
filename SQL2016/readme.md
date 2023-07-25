@@ -7,3 +7,14 @@
 ![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/0d86177c-33fe-4c53-9fa3-612cc0db6e80) <br>
 ### [File 1 required during installation - download manually](https://go.microsoft.com/fwlink/?Linkld=836819&lcid=1033)
 ### [File 2 required during installation - download manually](https://go.microsoft.com/fwlink/?Linkld=850317&lcid=1033)
+
+## Deployment
+### 1. Disable firewall on the server where you want to configure SQL DB
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/04c0cca1-2511-4926-bf53-98faff304160)
+
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/7f16f01f-51cc-4d72-9474-ceae35a8f4df)
+
+### 2. Install [JRE](https://www.oracle.com/java/technologies/downloads/#jre8-windows) and reboot the server
+![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/0d86177c-33fe-4c53-9fa3-612cc0db6e80)
+
+### 3.
