@@ -1,4 +1,4 @@
-![image](https://github.com/guguji666666/GJS-ADRMS/assets/96930989/1722534a-c506-43ca-9f21-76e00893cfe9)# Build SQL 2016 database
+# Build SQL 2016 database
 
 ## Download
 ### [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15#download-ssms)
